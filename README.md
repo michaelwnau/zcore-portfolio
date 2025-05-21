@@ -1,4 +1,4 @@
-# zCore Fronted Portfolio
+# zCore Frontend Portfolio
 
 ### A portfolio of zCore Group's frontend design work
 
